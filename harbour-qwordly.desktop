@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=QWordly
+Exec=sailfish-qml harbour-qwordly
+Name=QWordly
+
+[X-Sailjail]
+Permissions=
+OrganizationName=net.veskuh
+ApplicationName=QWordly
