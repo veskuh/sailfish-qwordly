@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Icon=QWordly
+Icon=harbour-qwordly
 Exec=sailfish-qml harbour-qwordly
 Name=QWordly
 
